@@ -1,0 +1,2 @@
+#define SEARCHSTR_API __declspec(dllexport)
+#define SEARCHSTR_API __declspec(dllimport)

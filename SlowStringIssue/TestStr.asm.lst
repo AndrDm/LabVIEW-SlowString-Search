@@ -1,0 +1,31 @@
+|                          | EUROASM CPU=X64
+|                          | EUROASM NoWarn=2101 ; W2101 Symbols was defined but never used.
+|00000000:                 |
+|                          |TestStr PROGRAM FORMAT=DLL, MODEL=FLAT, WIDTH=64, ICONFILE=
+|00000000:                 |
+|                          |EXPORT fnHandle
+|                          |EXPORT fnString
+|00000000:                 |
+|[.text]                   ::::Section changed.
+|00000000:                 |.code
+|00000000:                 |
+|00000000:                 |align 16
+|00000000:                 |fnHandle PROC
+|00000000:488B01           |	mov     rax, [rcx]
+|00000003:8A4004           |	mov		al, [rax + 4] ; first 4 bytes - count
+|00000006:C3               |	ret
+|00000007:                 |ENDP fnHandle
+|00000007:                 |
+|00000007:660F1F8420000000~|align 16
+|00000010:                 |fnString PROC
+|00000010:8A01             |	mov		al, [rcx]
+|00000012:C3               |	ret
+|00000013:                 |ENDP fnString
+|00000013:                 |
+|                          |ENDPROGRAM TestStr
+|        **** ListMap "TestStr.dll",model=FLAT,groups=0,segments=2,entry=,stack=
+|          [.text],FA=00000200h,VA=10001000h,size=00000013h=19,width=64,align=0010h,purpose=CODE
+|          [.edata],FA=00000400h,VA=10002000h,size=0000005Ah=90,width=0,align=8,purpose=EXPORT
+|        **** ListGlobals "TestStr.dll",Global=0,Public=0,Extern=0,eXport=2,Import=0
+|        fnHandle,[.text]:00000000h,VA=10001000h,scope='X'
+|        fnString,[.text]:00000010h,VA=10001010h,scope='X'
