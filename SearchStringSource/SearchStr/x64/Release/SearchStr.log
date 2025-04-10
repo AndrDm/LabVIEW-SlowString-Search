@@ -1,0 +1,8 @@
+﻿  dllmain.cpp
+  SearchStr.cpp
+     Creating library C:\Users\Andrey\Desktop\LabVIEW-SlowString-Search\SearchStringSource\x64\Release\SearchStr.lib and object C:\Users\Andrey\Desktop\LabVIEW-SlowString-Search\SearchStringSource\x64\Release\SearchStr.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 25 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SearchStr.vcxproj -> C:\Users\Andrey\Desktop\LabVIEW-SlowString-Search\SearchStringSource\x64\Release\SearchStr.dll

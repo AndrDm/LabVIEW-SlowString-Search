@@ -2,8 +2,16 @@
 //
 #pragma warning( disable : 4068)// GCC
 
+// canot use both at the same time and share both functions in same DLL
+#define USE_AVX2 1
+// #define USE_AVX512 1
+#ifdef USE_AVX2
 #define SZ_USE_X86_AVX2 1
+#endif
+#ifdef USE_AVX512
 #define SZ_USE_X86_AVX512 1
+#endif
+
 
 #include <inttypes.h>
 #include "C:\Program Files\National Instruments\LabVIEW 2025\cintools\extcode.h"
@@ -15,6 +23,7 @@
               if (!(*s)->str || !(*p)->str || !(*s)->cnt) return -1; \
               if (!(*p)->cnt) return 0;
 
+#ifdef USE_AVX2
 SEARCHSTR_API int32_t fnSearchStrAVX2(LStrHandle str, LStrHandle pattern)
 {
     GUARD(str, pattern)
@@ -29,7 +38,9 @@ SEARCHSTR_API int32_t fnSearchStrAVX2(LStrHandle str, LStrHandle pattern)
     if (substring_position) return (int32_t)offset;
     else return -1;
 }
+#endif
 
+#ifdef USE_AVX512
 SEARCHSTR_API int32_t fnSearchStrAVX512(LStrHandle str, LStrHandle pattern)
 {
     GUARD(str, pattern)
@@ -43,3 +54,4 @@ SEARCHSTR_API int32_t fnSearchStrAVX512(LStrHandle str, LStrHandle pattern)
     if (substring_position) return (int32_t)offset;
     else return -1;
 }
+#endif

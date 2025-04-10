@@ -1,0 +1,116 @@
+﻿  dllmain.cpp
+  SearchStr.cpp
+C:\Users\Andrey\Desktop\LabVIEW-SlowString-Search\SearchStringSource\stringzilla.h(3292,26): warning C4244: '=': conversion from 'sz_u64_t' to 'sz_size_t', possible loss of data
+  (compiling source file 'SearchStr.cpp')
+  
+C:\Users\Andrey\Desktop\LabVIEW-SlowString-Search\SearchStringSource\stringzilla.h(3576,85): warning C4244: 'argument': conversion from 'sz_sorted_idx_t' to 'sz_size_t', possible loss of data
+  (compiling source file 'SearchStr.cpp')
+  
+C:\Users\Andrey\Desktop\LabVIEW-SlowString-Search\SearchStringSource\stringzilla.h(3579,50): warning C4244: 'argument': conversion from 'sz_sorted_idx_t' to 'sz_size_t', possible loss of data
+  (compiling source file 'SearchStr.cpp')
+  
+C:\Users\Andrey\Desktop\LabVIEW-SlowString-Search\SearchStringSource\stringzilla.h(3590,76): warning C4244: 'argument': conversion from 'sz_sorted_idx_t' to 'sz_size_t', possible loss of data
+  (compiling source file 'SearchStr.cpp')
+  
+C:\Users\Andrey\Desktop\LabVIEW-SlowString-Search\SearchStringSource\stringzilla.h(3590,48): warning C4244: 'argument': conversion from 'sz_sorted_idx_t' to 'sz_size_t', possible loss of data
+  (compiling source file 'SearchStr.cpp')
+  
+C:\Users\Andrey\Desktop\LabVIEW-SlowString-Search\SearchStringSource\stringzilla.h(3596,78): warning C4244: 'argument': conversion from 'sz_sorted_idx_t' to 'sz_size_t', possible loss of data
+  (compiling source file 'SearchStr.cpp')
+  
+C:\Users\Andrey\Desktop\LabVIEW-SlowString-Search\SearchStringSource\stringzilla.h(3596,52): warning C4244: 'argument': conversion from 'sz_sorted_idx_t' to 'sz_size_t', possible loss of data
+  (compiling source file 'SearchStr.cpp')
+  
+C:\Users\Andrey\Desktop\LabVIEW-SlowString-Search\SearchStringSource\stringzilla.h(3598,29): warning C4244: 'initializing': conversion from 'sz_sorted_idx_t' to 'sz_size_t', possible loss of data
+  (compiling source file 'SearchStr.cpp')
+  
+C:\Users\Andrey\Desktop\LabVIEW-SlowString-Search\SearchStringSource\stringzilla.h(3620,57): warning C4244: 'argument': conversion from 'sz_u64_t' to 'sz_size_t', possible loss of data
+  (compiling source file 'SearchStr.cpp')
+  
+C:\Users\Andrey\Desktop\LabVIEW-SlowString-Search\SearchStringSource\stringzilla.h(3620,40): warning C4244: 'argument': conversion from 'sz_u64_t' to 'sz_size_t', possible loss of data
+  (compiling source file 'SearchStr.cpp')
+  
+C:\Users\Andrey\Desktop\LabVIEW-SlowString-Search\SearchStringSource\stringzilla.h(3630,77): warning C4244: 'argument': conversion from 'sz_u64_t' to 'sz_size_t', possible loss of data
+  (compiling source file 'SearchStr.cpp')
+  
+C:\Users\Andrey\Desktop\LabVIEW-SlowString-Search\SearchStringSource\stringzilla.h(3630,59): warning C4244: 'argument': conversion from 'sz_u64_t' to 'sz_size_t', possible loss of data
+  (compiling source file 'SearchStr.cpp')
+  
+C:\Users\Andrey\Desktop\LabVIEW-SlowString-Search\SearchStringSource\stringzilla.h(3631,53): warning C4244: 'argument': conversion from 'sz_u64_t' to 'sz_size_t', possible loss of data
+  (compiling source file 'SearchStr.cpp')
+  
+C:\Users\Andrey\Desktop\LabVIEW-SlowString-Search\SearchStringSource\stringzilla.h(3631,39): warning C4244: 'argument': conversion from 'sz_u64_t' to 'sz_size_t', possible loss of data
+  (compiling source file 'SearchStr.cpp')
+  
+C:\Users\Andrey\Desktop\LabVIEW-SlowString-Search\SearchStringSource\stringzilla.h(3666,77): warning C4244: 'argument': conversion from 'sz_sorted_idx_t' to 'sz_size_t', possible loss of data
+  (compiling source file 'SearchStr.cpp')
+  
+C:\Users\Andrey\Desktop\LabVIEW-SlowString-Search\SearchStringSource\stringzilla.h(3666,53): warning C4244: 'argument': conversion from 'sz_sorted_idx_t' to 'sz_size_t', possible loss of data
+  (compiling source file 'SearchStr.cpp')
+  
+C:\Users\Andrey\Desktop\LabVIEW-SlowString-Search\SearchStringSource\stringzilla.h(3673,31): warning C4244: 'argument': conversion from 'sz_u64_t' to 'sz_size_t', possible loss of data
+  (compiling source file 'SearchStr.cpp')
+  
+C:\Users\Andrey\Desktop\LabVIEW-SlowString-Search\SearchStringSource\stringzilla.h(3673,28): warning C4244: 'argument': conversion from 'sz_u64_t' to 'sz_size_t', possible loss of data
+  (compiling source file 'SearchStr.cpp')
+  
+C:\Users\Andrey\Desktop\LabVIEW-SlowString-Search\SearchStringSource\stringzilla.h(3674,31): warning C4244: 'argument': conversion from 'sz_u64_t' to 'sz_size_t', possible loss of data
+  (compiling source file 'SearchStr.cpp')
+  
+C:\Users\Andrey\Desktop\LabVIEW-SlowString-Search\SearchStringSource\stringzilla.h(3674,28): warning C4244: 'argument': conversion from 'sz_u64_t' to 'sz_size_t', possible loss of data
+  (compiling source file 'SearchStr.cpp')
+  
+C:\Users\Andrey\Desktop\LabVIEW-SlowString-Search\SearchStringSource\stringzilla.h(3675,31): warning C4244: 'argument': conversion from 'sz_u64_t' to 'sz_size_t', possible loss of data
+  (compiling source file 'SearchStr.cpp')
+  
+C:\Users\Andrey\Desktop\LabVIEW-SlowString-Search\SearchStringSource\stringzilla.h(3675,28): warning C4244: 'argument': conversion from 'sz_u64_t' to 'sz_size_t', possible loss of data
+  (compiling source file 'SearchStr.cpp')
+  
+C:\Users\Andrey\Desktop\LabVIEW-SlowString-Search\SearchStringSource\stringzilla.h(3701,70): warning C4244: 'argument': conversion from 'sz_sorted_idx_t' to 'sz_size_t', possible loss of data
+  (compiling source file 'SearchStr.cpp')
+  
+C:\Users\Andrey\Desktop\LabVIEW-SlowString-Search\SearchStringSource\stringzilla.h(3701,46): warning C4244: 'argument': conversion from 'sz_sorted_idx_t' to 'sz_size_t', possible loss of data
+  (compiling source file 'SearchStr.cpp')
+  
+C:\Users\Andrey\Desktop\LabVIEW-SlowString-Search\SearchStringSource\stringzilla.h(3703,72): warning C4244: 'argument': conversion from 'sz_sorted_idx_t' to 'sz_size_t', possible loss of data
+  (compiling source file 'SearchStr.cpp')
+  
+C:\Users\Andrey\Desktop\LabVIEW-SlowString-Search\SearchStringSource\stringzilla.h(3703,48): warning C4244: 'argument': conversion from 'sz_sorted_idx_t' to 'sz_size_t', possible loss of data
+  (compiling source file 'SearchStr.cpp')
+  
+C:\Users\Andrey\Desktop\LabVIEW-SlowString-Search\SearchStringSource\stringzilla.h(3705,73): warning C4244: 'argument': conversion from 'sz_sorted_idx_t' to 'sz_size_t', possible loss of data
+  (compiling source file 'SearchStr.cpp')
+  
+C:\Users\Andrey\Desktop\LabVIEW-SlowString-Search\SearchStringSource\stringzilla.h(3705,46): warning C4244: 'argument': conversion from 'sz_sorted_idx_t' to 'sz_size_t', possible loss of data
+  (compiling source file 'SearchStr.cpp')
+  
+C:\Users\Andrey\Desktop\LabVIEW-SlowString-Search\SearchStringSource\stringzilla.h(3713,54): warning C4244: 'argument': conversion from 'sz_u64_t' to 'sz_size_t', possible loss of data
+  (compiling source file 'SearchStr.cpp')
+  
+C:\Users\Andrey\Desktop\LabVIEW-SlowString-Search\SearchStringSource\stringzilla.h(3713,51): warning C4244: 'argument': conversion from 'sz_sorted_idx_t' to 'sz_size_t', possible loss of data
+  (compiling source file 'SearchStr.cpp')
+  
+C:\Users\Andrey\Desktop\LabVIEW-SlowString-Search\SearchStringSource\stringzilla.h(3714,59): warning C4244: 'argument': conversion from 'sz_sorted_idx_t' to 'sz_size_t', possible loss of data
+  (compiling source file 'SearchStr.cpp')
+  
+C:\Users\Andrey\Desktop\LabVIEW-SlowString-Search\SearchStringSource\stringzilla.h(3714,31): warning C4244: 'argument': conversion from 'sz_u64_t' to 'sz_size_t', possible loss of data
+  (compiling source file 'SearchStr.cpp')
+  
+C:\Users\Andrey\Desktop\LabVIEW-SlowString-Search\SearchStringSource\stringzilla.h(3831,74): warning C4244: 'argument': conversion from 'sz_sorted_idx_t' to 'sz_size_t', possible loss of data
+  (compiling source file 'SearchStr.cpp')
+  
+C:\Users\Andrey\Desktop\LabVIEW-SlowString-Search\SearchStringSource\stringzilla.h(3832,76): warning C4244: 'argument': conversion from 'sz_sorted_idx_t' to 'sz_size_t', possible loss of data
+  (compiling source file 'SearchStr.cpp')
+  
+C:\Users\Andrey\Desktop\LabVIEW-SlowString-Search\SearchStringSource\stringzilla.h(4044,34): error C3861: '_mm_cvtsi128_si64': identifier not found
+  (compiling source file 'SearchStr.cpp')
+  
+C:\Users\Andrey\Desktop\LabVIEW-SlowString-Search\SearchStringSource\stringzilla.h(4045,35): error C3861: '_mm_extract_epi64': identifier not found
+  (compiling source file 'SearchStr.cpp')
+  
+C:\Users\Andrey\Desktop\LabVIEW-SlowString-Search\SearchStringSource\stringzilla.h(4095,34): error C3861: '_mm_cvtsi128_si64': identifier not found
+  (compiling source file 'SearchStr.cpp')
+  
+C:\Users\Andrey\Desktop\LabVIEW-SlowString-Search\SearchStringSource\stringzilla.h(4096,35): error C3861: '_mm_extract_epi64': identifier not found
+  (compiling source file 'SearchStr.cpp')
+  
